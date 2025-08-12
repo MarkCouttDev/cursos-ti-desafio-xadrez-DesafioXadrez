@@ -19,8 +19,3 @@ Peça	Direção do Movimento	Estrutura Usada
 Torre	5 casas para a direita	for
 Bispo	5 casas na diagonal superior direita	while
 Rainha	8 casas para a esquerda	do-while
-
----> Como Executar
-Clone o repositório:
-git clone https://github.com/seu-usuario/xadrez-simulacao.git
-cd xadrez-simulacao
