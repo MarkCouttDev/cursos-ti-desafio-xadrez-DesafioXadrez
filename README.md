@@ -16,7 +16,7 @@ O código está contido em um único arquivo: xadrez.c.
 
 Cada peça é simulada com uma estrutura de repetição específica:
 
-Peça-	Direção do Movimento	Estrutura Usada
-Torre-	5 casas para a direita	for
-Bispo-	5 casas na diagonal superior direita	while
-Rainha-	8 casas para a esquerda	do-while
+Peça	Direção do Movimento	Estrutura Usada
+Torre	5 casas para a direita	for
+Bispo	5 casas na diagonal superior direita	while
+Rainha	8 casas para a esquerda	do-while
