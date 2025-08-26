@@ -71,4 +71,3 @@ Loops complexos e controle de fluxo no movimento do Cavalo
 Saídas organizadas e claras no console
 
 Código documentado, legível e eficiente
-

@@ -2,7 +2,7 @@
 
 /*
     ===============================
-    NÍVEL MESTRE — Resumo técnico
+    NÍVEL MESTRE
     ===============================
     - Torre, Bispo e Rainha: implementados com FUNÇÕES RECURSIVAS.
     - Bispo: além da recursão, usa LOOPS ANINHADOS (externo = vertical "Cima", interno = horizontal "Direita").
